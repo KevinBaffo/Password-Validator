@@ -15,7 +15,7 @@ symbols = ["!","@","#","$","%","^","&","*","_","=","+","-","/","€",".","?","<"
 passwordMin = 6
 passwordMax = 10
 
-# Prompt user to choose a password
+# Prompt a user to choose a password
 puts "Please Enter Your Password"
 pswd = gets.chomp
 
